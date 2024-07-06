@@ -57,7 +57,7 @@ const productsListBestSeller = [
         "GiaBan": 690000,
         "DungTich": 90,
         "SoLuongTon": 143,
-        "HinhSP": "/assets/images/products/028.png",
+        "HinhSP": "/feelgoodperfume/assets/images/products/028.png",
         "NgayThem": "2023-11-10T00:00:00",
         "MoTa": "Goodcharme Hue mang đến cho phái đẹp cảm giác trải nghiệm vừa mang nét truyền thống, vừa hiện đại biến tấu cùng thời cuộc với những hương thơm tươi mát và ngọt ngào, mang đậm phong cách tinh tế, thanh lịch lại còn toát lên vẻ sang trọng. Thân chai màu hồng da nhẹ nhàng cùng phần nắp chai màu vàng đồng làm toát lên hình ảnh một người phụ nữ dịu dàng hiền thục. Goodcharme Hue mang nét đẹp thanh lịch và sang trọng của người phụ nữ. Dù không có quá nhiều sự pha trộn trong mùi hương, tuy nhiên sự hài hòa và tinh tế giữa các hương vị tạo nên 3 tầng hương tuyệt vời.Mở đầu bằng hương thơm tươi mát của Cam Bergamot, dù là hương thơm không quá xa lạ với các tín đồ mê nước hoa nhưng cũng đủ để làm nổi bật nốt hương đầu của Goodcharme Hue. Tiếp đến, sự hòa quyện tinh tế giữa hương thơm dịu nhẹ của Hoa hồng Bungari và chút hương vị lạ của Iris làm các nàng phải chết mê chết mệt. Đây cũng được xem là tầng hương nổi bật nhất của Charme Huế. Khép lại chuỗi hương thơm tuyệt vời của siêu phẩm này là sự lên ngôi của hương vị ngọt ngào đến từ Vani, cùng một chút sự lan tỏa ngào ngạt của Hoắc hương và mùi da quen thuộc và mộc mạc.",
         "TenLoaiSP": "Nước hoa nữ"
