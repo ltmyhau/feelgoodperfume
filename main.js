@@ -68,7 +68,7 @@ const productsListBestSeller = [
         "GiaBan": 1800000,
         "DungTich": 50,
         "SoLuongTon": 76,
-        "HinhSP": "/assets/images/products/009.png",
+        "HinhSP": "./assets/images/products/009.png",
         "NgayThem": "2023-11-09T00:00:00",
         "MoTa": "Nước hoa MAN IN WHITE 50ML sở hữu note hương Iso E Super, mang hơi thở đặc trưng của gỗ tuyết tùng. Sẽ là một điều khiến bạn ngạc nhiên khi hương gỗ trong nước hoa MAN IN WHITE lan tỏa nhẹ nhàng và trung tính, đủ để kích thích những tế bào khứu giác và tận hưởng sự tinh tế của mùi hương. Trong sự kết hợp này, bạn sẽ cảm nhận được một cảm giác trong veo và dễ gần nhờ vào sự hiện diện tinh tế của Amyl Salicylate từ lá bạc hà, một nốt hương thoang thoảng nhưng lại mê mẩn đến lạ người. Sự ngọt ngào của xạ hương và long diên hương, hòa quyện với sự thanh khiết và tươi mơn mởn của quả lê, tạo nên một sự kết hợp tinh tế và lôi cuốn. Những nốt hương này tạo ra một khí chất quyến rũ và cuốn hút, mê hoặc mọi người xung quanh. Vị ngọt đầy sáng tạo của xạ hương và long diên hương, cùng với sự tươi mát và thanh thoát của quả lê, kết hợp một cách khéo léo và tự nhiên. Những nốt hương này tạo nên một sự cuốn hút đặc biệt và tinh tế, mang lại một cảm giác quyến rũ không thể cưỡng lại. Mùi hương nuốt trọn mọi thứ xung quanh, mùi hương tưởng như kỳ lạ nhưng lại hấp dẫn đến không ngờ.",
         "TenLoaiSP": "Nước hoa nam"
